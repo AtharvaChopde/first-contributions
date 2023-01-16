@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+-[Atharva Chopde] (https://github.com/AtharvaChopde)
 - [AKP](https://github.com/AungKhinePhyo)
 - [Deepak Papnoi - 00123]
 - [Harsh Kumar Raj](https://github.com/harshkumarraj)
